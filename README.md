@@ -14,8 +14,8 @@ A simple yet powerful WebSocket proxy server that allows you to route WebSocket 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd websocket-proxy
+git clone https://github.com/scar17off/ws-proxy
+cd ws-proxy
 ```
 
 2. Install dependencies:
